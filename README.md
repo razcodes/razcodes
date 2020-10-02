@@ -9,10 +9,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ckercky.vercel.app/api/spotify-playing" alt="Raz's Spotify Playing" width="350" />](https://open.spotify.com/user/ckercky)
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ckercky&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ckercky&cover_image=true)]]
-
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&redirect=true)
 
 ### Connect with me:
