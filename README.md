@@ -9,6 +9,8 @@
 
 ### Spotify Playing 🎧
 
+[![Raz's Spotify Playing](https://ckercky.vercel.app/api/spotify)](https://open.spotify.com/user/ckercky)
+
 [<img src="https://now-playing-ckercky.vercel.app/api/spotify-playing" alt="Raz's Spotify Playing" width="350" />](https://open.spotify.com/user/ckercky)
 
 ### Connect with me:
