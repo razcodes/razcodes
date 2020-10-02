@@ -2,8 +2,8 @@
 
 ## I'm a Highliner, Developer, and Gamer!
 
-- 🌱 I keep learning every day 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 Computer Science student in The Open University of Israel
+- 👯 Looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to climb and play guitar / piano!
 
