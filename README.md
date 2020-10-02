@@ -9,7 +9,9 @@
 
 ### Spotify Playing 🎧
 
-[![Raz's Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&redirect=true)
+[![Raz's Spotify Playing](https://ckercky.vercel.app/api/spotify)](https://open.spotify.com/user/ckercky)
+
+<!-- [![Raz's Spotify Playing](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=ckercky&redirect=true) -->
 
 ### Connect with me:
 
