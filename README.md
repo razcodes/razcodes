@@ -2,14 +2,16 @@
 
 ## I'm a Highliner, Developer, and Gamer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I keep learning every day 🤣
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to climb and play guitar / piano!
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-ckercky.vercel.app/api/spotify-playing" alt="Raz's Spotify Playing" width="350" />](https://open.spotify.com/user/ckercky)
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ckercky&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ckercky&cover_image=true)]]
 
 ### Connect with me:
 
