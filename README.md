@@ -13,6 +13,8 @@
 
 [<img src="https://now-playing-ckercky.vercel.app/api/spotify-playing" alt="Raz's Spotify Playing" width="350" />](https://open.spotify.com/user/ckercky)
 
+[![Spotify](https://ckercky.vercel.app/api/spotify)](https://open.spotify.com/user/ckercky)
+
 ### Connect with me:
 
 [<img align="left" alt="Raz Rimon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
