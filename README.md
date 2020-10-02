@@ -37,12 +37,11 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Raz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=razcodes&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
 
-</details>
+<img align="left" alt="Raz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=razcodes&show_icons=true&hide_border=true" />
+
 
 [website]: https://www.razrimon.com
 [youtube]: https://www.youtube.com/user/CkerCky
