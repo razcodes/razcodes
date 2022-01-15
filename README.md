@@ -3,8 +3,8 @@
 ## I'm a Highliner, Developer, and Gamer!
 
 - 👨‍🎓 Computer Science student in The Open University of Israel
-- 👯 Looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 Looking to volunteer and help develop interesting projects
+- 🥅 2022 Goals: Have a multi-platform app up and running head-to-toe
 - 🧗‍♂️ I love to highline, climb and play guitar / piano!🎸🎹
 
 ### Spotify Playing 🎧
