@@ -1,8 +1,7 @@
-### Hi there, I'm Raz 👋
+### I'm Raz 👋
 
 ## I'm a Highliner, Developer, and Gamer!
 
-- 👨‍🎓 Computer Science student in The Open University of Israel
 - 👯 Looking to volunteer and help develop interesting projects
 - 🧗‍♂️ I love to highline, climb and play guitar / piano!🎸🎹
 
