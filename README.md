@@ -4,7 +4,6 @@
 
 - 👨‍🎓 Computer Science student in The Open University of Israel
 - 👯 Looking to volunteer and help develop interesting projects
-- 🥅 2022 Goals: Have a multi-platform app up and running head-to-toe
 - 🧗‍♂️ I love to highline, climb and play guitar / piano!🎸🎹
 
 ### Spotify Playing 🎧
